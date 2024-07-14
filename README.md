@@ -1,1 +1,1 @@
-# html_css_AmazonClone_project
+The Amazon Clone Website is a fully functional e-commerce platform built using HTML and CSS.It replicates the familiar layout and design of Amazon,allowing users to browse and purchase products.The website features a responsive design,intutive navigation,and a seamless shopping experience,all achieved usimg only HTML and CSS.
